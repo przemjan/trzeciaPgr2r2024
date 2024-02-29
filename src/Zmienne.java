@@ -32,5 +32,10 @@ public class Zmienne {
         char znak = '#';
 
         boolean slonce = true; //false
+        // https://github.com/przemjan/trzeciaPgr2r2024
+        // \\ubuckp\public\janisz
+
+        // Podstawowa składnia i struktury wybranych języków programowania.
+        // Proste algorytmy.
     }
 }
